@@ -1,6 +1,8 @@
+<img src="your-image-path-or-url.jpg" align="right" width="180" alt="Arif Zakwan" style="border-radius: 50%;" />
+
 # Hi there, I'm Arif Zakwan 👋
 
-🎓 **Data Engineering Student** 
+🎓 **Data Engineering Student in UTM** 
 
 I am a passionate Data Engineering student focused on building efficient data pipelines, managing data infrastructure, and developing backend logic. I love solving complex data problems and continually expanding my technical toolkit.
 
