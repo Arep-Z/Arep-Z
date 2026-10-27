@@ -1,3 +1,4 @@
+<p align="center">
 <img alt="Arif_pic" src="https://github.com/user-attachments/assets/5185bff5-cb04-4453-a69f-bb525cc13729" align="right" width="180" alt="Arif Zakwan" style="border-radius: 50%;" />
 
 # Hi there, I'm Arif Zakwan 👋
