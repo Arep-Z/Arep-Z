@@ -1,4 +1,4 @@
-<img src="Arif_pic.jpg" align="right" width="180" alt="Arif Zakwan" style="border-radius: 50%;" />
+<img src="Arif_pic.jpeg" align="right" width="180" alt="Arif Zakwan" style="border-radius: 50%;" />
 
 # Hi there, I'm Arif Zakwan 👋
 
