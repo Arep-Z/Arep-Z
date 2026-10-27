@@ -12,12 +12,6 @@ I am a passionate Data Engineering student focused on building efficient data pi
 
 * **Languages:** Java
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radial" alt="Arif's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radial" alt="Top Languages" />
-</p>
-  
 ### 📫 Connect with Me
 
 Feel free to reach out to me for collaborations, questions, or just to say hi!
