@@ -12,8 +12,6 @@ I am a passionate Data Engineering student focused on building efficient data pi
 
 * **Languages:** Java
 
-### 📊 GitHub Stats
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radial" alt="Arif's GitHub Stats" />
   <br />
